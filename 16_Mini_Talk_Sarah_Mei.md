@@ -1,6 +1,8 @@
 # Ruby Creation Myth
 ## Sarah Mei [@sarahmei](https://twitter.com/sarahmei)
 
+http://www.confreaks.com/videos/1122-gogaruco2012-three-mini-talks
+
 Matz releases Ruby in 1995
 
 History/Myth on wikipedia is **TRUE**   
