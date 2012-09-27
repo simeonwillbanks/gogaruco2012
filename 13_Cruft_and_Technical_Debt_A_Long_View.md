@@ -1,6 +1,7 @@
 # Cruft and Technical Debt: A Long View
 ## Yehuda Katz [@wycats](https://twitter.com/wycats)
-https://speakerdeck.com/u/wycats
+https://speakerdeck.com/u/wycats   
+http://www.confreaks.com/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view
 
 ### Intro
 Satisfaction goes through a steep decline overtime   
