@@ -1,6 +1,8 @@
 # Linguistic Potluck: Crowdsourcing Localization in Rails
 ## Heather Rivers [@HeatherRivers](https://twitter.com/HeatherRivers)
 
+http://www.confreaks.com/videos/1110-gogaruco2012-linguistic-potluck-crowdsourcing-localization-in-rails
+
 ### Introduction
 Bridge gap between computers language and ours
 
