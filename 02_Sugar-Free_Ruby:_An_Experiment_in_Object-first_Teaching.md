@@ -1,7 +1,8 @@
 # Sugar-Free Ruby: An Experiment in Object-first Teaching
 ## Steven! Ragnarök [@nuclearsandwich](https://twitter.com/nuclearsandwich)
 
-https://speakerdeck.com/u/nuclearsandwich/p/sugar-free-ruby
+https://speakerdeck.com/u/nuclearsandwich/p/sugar-free-ruby     
+http://www.confreaks.com/videos/1112-gogaruco2012-sugar-free-ruby-an-experiment-in-object-first-teaching
 
 ### Introduction
 
