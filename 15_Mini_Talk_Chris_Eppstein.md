@@ -1,6 +1,8 @@
 # Chris Eppstein
 ## [@chriseppstein](https://twitter.com/chriseppstein)
 
+http://www.confreaks.com/videos/1122-gogaruco2012-three-mini-talks
+
 Happy of ignorance because you took a risk without really knowing it
 
 Sometimes things come out better than you expect!
