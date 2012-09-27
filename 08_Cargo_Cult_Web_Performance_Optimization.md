@@ -1,7 +1,8 @@
 # Cargo Cult Web Performance Optimization
 ## Ilya Grigorik [@igrigorik](https://twitter.com/igrigorik)
 
-http://www.igvita.com/slides/2012/gogaruco-web-performance/
+http://www.igvita.com/slides/2012/gogaruco-web-performance/     
+http://www.confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization
 
 ### Webkit is important
 1 billion mobile devices   
