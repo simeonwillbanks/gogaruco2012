@@ -1,6 +1,8 @@
 # Writing a Rails Engine
 ## Erik Michael-Ober [@sferik](https://twitter.com/sferik)
 
+http://www.confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine
+
 ### Introduction
 All a rails app is a bootable rails engine  
 Engines do not know how to start themselves, but are everything else, MVC  
