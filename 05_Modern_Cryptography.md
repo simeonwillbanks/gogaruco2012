@@ -1,7 +1,8 @@
 # Modern Cryptography
 ## John Downey [@jtdowney](https://twitter.com/jtdowney)
 
-https://speakerdeck.com/u/jtdowney/p/cryptography-gogaruco
+https://speakerdeck.com/u/jtdowney/p/cryptography-gogaruco    
+http://www.confreaks.com/videos/1114-gogaruco2012-modern-cryptography
 
 ## Cryptography
 1. Keep something secret
