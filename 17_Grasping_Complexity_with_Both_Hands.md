@@ -1,5 +1,6 @@
 # Grasping Complexity with Both Hands
 ## Glenn Vanderburg [@glv](https://twitter.com/glv)
+http://www.confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands
 
 ### Simple
 We love simplicity   
