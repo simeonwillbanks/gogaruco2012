@@ -1,6 +1,8 @@
 # Deploy, Scale and Sleep at Night with JRuby
 ## Joe Kutner [@codefinger](https://twitter.com/codefinger)
 
+http://www.confreaks.com/videos/1118-gogaruco2012-deploy-scale-and-sleep-at-night-with-jruby
+
 **Difference between trains and cars is very similiar to difference between JRuby and MRI deployment systems**
 
 ### Ruby on the JVM
