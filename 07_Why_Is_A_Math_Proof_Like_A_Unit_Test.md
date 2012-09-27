@@ -1,7 +1,8 @@
 # Why Is A Math Proof Like A Unit Test?
 ## Daniela Wellisz [@alenia](https://twitter.com/alenia)
 
-http://math-tdd-slides.herokuapp.com/
+http://math-tdd-slides.herokuapp.com/    
+http://www.confreaks.com/videos/1116-gogaruco2012-why-is-a-math-proof-like-a-unit-test
 
 ## Intro
 Name is from: Why is a raven like a writing desk?
