@@ -117,9 +117,13 @@ I can't explain, but this feels wrong
 Intuition builds up through experience   
 If you force yourself to understand your intuition, you are a better teacher and able to explain your stance
 
-**Study "wicked problems"**   
-(see slides)   
-http://kschroeder.com/  
+**Study "wicked problems"**     
+http://kschroeder.com   
+http://www.kschroeder.com/weblog/wicked-1   
+http://www.kschroeder.com/weblog/wicked-2   
+http://www.kschroeder.com/weblog/wicked-3  
+[Dilemmas in a General Theory of Planning](http://www.uctc.net/mwebber/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf)    
+
 No Stopping rule   
 Solutions are better/worse not true/false   
 No immediate or ultimate test of solution   
