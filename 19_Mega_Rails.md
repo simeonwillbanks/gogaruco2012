@@ -1,7 +1,8 @@
 # MonoRail: Monolithic Rails Application
 ## Jack Danger Canty [@jackdanger](https://twitter.com/jackdanger)
 
-http://www.slideshare.net/jackdanger/monorails-gogaruco-2012
+http://www.slideshare.net/jackdanger/monorails-gogaruco-2012    
+http://www.confreaks.com/videos/1125-gogaruco2012-mega-rails
 
 ### Intro
 Common pattern from inception to huge app
