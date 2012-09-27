@@ -1,7 +1,8 @@
 # Go Ahead, Make a Mess
 ## Sandi Metz [@sandimetz](https://twitter.com/sandimetz)
 
-https://speakerdeck.com/u/skmetz/p/go-ahead-make-a-mess
+https://speakerdeck.com/u/skmetz/p/go-ahead-make-a-mess     
+http://www.confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess
 
 ### Life Cycle of a Rails Project
 Satisfaction == Getting stuff done    
