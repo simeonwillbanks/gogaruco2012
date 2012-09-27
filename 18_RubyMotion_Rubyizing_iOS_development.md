@@ -1,7 +1,8 @@
 # RubyMotion: Rubyizing iOS development
 ## Amit Kumar [@toamit](https://twitter.com/toamit)
 
-http://www.slideshare.net/toamitkumar/rubyizing-ios-development
+http://www.slideshare.net/toamitkumar/rubyizing-ios-development    
+http://www.confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development
 
 ### Intro
 Objective-C is complicated!   
