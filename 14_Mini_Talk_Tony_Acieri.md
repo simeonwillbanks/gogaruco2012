@@ -1,6 +1,8 @@
 # A Crash Course on Celluloid
 ## Tony Acieri [@bascule](https://twitter.com/bascule)
 
+http://www.confreaks.com/videos/1122-gogaruco2012-three-mini-talks
+
 http://celluloid.io/
 
 Threads on Rails!   
