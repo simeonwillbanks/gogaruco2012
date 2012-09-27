@@ -1,7 +1,8 @@
 # High Performance Ruby
 ## Charles Nutter [@headius](https://twitter.com/headius)
 
-http://www.slideshare.net/CharlesNutter/high-performance-ruby-golden-gate-rubyconf-2012
+http://www.slideshare.net/CharlesNutter/high-performance-ruby-golden-gate-rubyconf-2012    
+http://www.confreaks.com/videos/1113-gogaruco2012-high-performance-ruby
 
 ### Introduction
 
