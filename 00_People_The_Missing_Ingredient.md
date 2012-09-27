@@ -1,6 +1,8 @@
 # People, The Missing Ingredient
 ## Joe O'Brien [@objo](https://twitter.com/objo)
 
+http://www.confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient
+
 ### Introduction
 People, Process, Technology
 
