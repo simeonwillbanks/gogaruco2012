@@ -1,7 +1,8 @@
 # Schemas for the Real World
 ## Carina C. Zona [@cczona](https://twitter.com/cczona)
 
-https://speakerdeck.com/u/cczona/p/gogaruco-2012-v1
+https://speakerdeck.com/u/cczona/p/gogaruco-2012-v1    
+http://www.confreaks.com/videos/1120-gogaruco2012-schemas-for-the-real-world
 
 ### Intro
 Relationships are really hard!   
